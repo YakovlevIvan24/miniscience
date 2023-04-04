@@ -1,0 +1,4 @@
+/home/user/me/c++/laba3/build/CMakeFiles/poisson.dir
+/home/user/me/c++/laba3/build/CMakeFiles/hyper_elasticity.dir
+/home/user/me/c++/laba3/build/CMakeFiles/edit_cache.dir
+/home/user/me/c++/laba3/build/CMakeFiles/rebuild_cache.dir
